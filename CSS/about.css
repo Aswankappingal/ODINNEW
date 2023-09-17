@@ -119,11 +119,12 @@
 /* row images section bootstarp  */
 .sections-data {
    margin: auto;
-   width: 58%;
+   width: 60%;
 }
 
 .full-3item {
    margin-bottom: 5%;
+   
 }
 
 .data-full h5 {
@@ -131,15 +132,17 @@
    line-height: 1.75rem;
    font-weight: 600;
    color: #4b5563;
+   margin-left: 5%;
 }
 
 .data-full p {
    color: #6b7280;
    width: 80%;
+   margin-left: 5%;
 }
 
 .images-only img {
-   margin-left: 30%;
+   margin-left: 50%;
 }
 
 
